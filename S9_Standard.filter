@@ -3610,6 +3610,9 @@ ItemDisplay[SET !ID (WEAPON OR ARMOR OR rin)]: %GREEN%**** %GREEN%%NAME% %GREEN%
 //9gm : Martel de Fer, 7gm Thunder Maul
 //9ls : Rune Sword, 7ls Cryptic Sword
 
+//JMOD//
+ItemDisplay[MAG (SOCK=0 OR SOCK=4) !ETH (STAT102=30 AND STAT20=20) uit]:%WHITE%*%WHITE%*%WHITE%*%WHITE%%JMOD%WHITE%*%WHITE%*%WHITE%*
+
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(ba4 OR ba5 OR ba9 OR baa OR baf OR bab OR bad) (!ETH OR ETH) MAG !ID FILTLVL>4]: 
