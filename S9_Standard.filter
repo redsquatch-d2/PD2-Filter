@@ -127,6 +127,9 @@ ItemDisplay[(bbb OR ass OR bkd OR bks OR box OR g34 OR ice OR j34 OR mss OR qbr 
 ItemDisplay[tbk]:%PURPLE%[%BLUE%Portal%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
 ItemDisplay[ibk]:%PURPLE%[%RED%Identify%PURPLE%] %ORANGE%Book%WHITE%*%GREEN%%QTY%
 
+//JMOD//
+ItemDisplay[MAG (SOCK=0 OR SOCK=4) !ETH (STAT102=30 AND STAT20=20) uit]:%WHITE%*%WHITE%*%WHITE%*%WHITE%%JMOD%WHITE%*%WHITE%*%WHITE%*
+
 //Gambling
 ItemDisplay[NMAG rin !ID SHOP]:%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NL%%GREEN%	Bul-Kathos' Death Band%NL%%NL%%YELLOW%Kadala's Heirloom%NL%%ORANGE%Bul-Kathos' Wedding Band%NL%%CORAL%Stone of Jordan%NL%%RED%Wisp Projector %NL%%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NL%%RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%CORAL%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
 ItemDisplay[NMAG amu !ID SHOP]:%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NL%%GREEN%	Tal Rasha's Adjudication%NL% %NL%%SAGE%The Rising Sun%NL%%YELLOW%Metalgrid%NL%%ORANGE%Atma's Scarab%NL%%CORAL%Highlord's Wrath%NL%%RED%Mara's Kaleidoscope%NL%%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%RED%--%ORANGE%--%YELLOW%--%GREEN%--%BLUE%--%CORAL%--%PURPLE%--%NL%%RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%* %CORAL%[%RED%%NAME%%CORAL%]-%WHITE%Best %GOLD%Gambling %RED%*%ORANGE%*%YELLOW%*%GREEN%*%BLUE%*%PURPLE%*
@@ -3609,9 +3612,6 @@ ItemDisplay[SET !ID (WEAPON OR ARMOR OR rin)]: %GREEN%**** %GREEN%%NAME% %GREEN%
 //9gd : Executioner Sword, 7gd Colossus Blade
 //9gm : Martel de Fer, 7gm Thunder Maul
 //9ls : Rune Sword, 7ls Cryptic Sword
-
-//JMOD//
-ItemDisplay[MAG (SOCK=0 OR SOCK=4) !ETH (STAT102=30 AND STAT20=20) uit]:%WHITE%*%WHITE%*%WHITE%*%WHITE%%JMOD%WHITE%*%WHITE%*%WHITE%*
 
 ItemDisplay[(xvg OR uvg OR xmg OR umg OR xlg OR ulg OR xhg OR uhg) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
 ItemDisplay[(xlm OR ulm OR xhl OR uhl OR xsk OR usk OR xrn OR urn) (!ETH OR ETH) MAG !ID FILTLVL>3]: 
