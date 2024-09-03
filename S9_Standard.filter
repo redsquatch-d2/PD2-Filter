@@ -282,17 +282,17 @@ ItemDisplay[hp5]:%RED%!%WHITE%HP
 ItemDisplay[mp5]:%BLUE%!%WHITE%MP
 ItemDisplay[hp4 DIFF<1]:%RED%!%WHITE%HP4
 ItemDisplay[hp4 DIFF>0]:
-ItemDisplay[hp3 CLVL<30]:%RED%!%WHITE%HP3
+ItemDisplay[hp3 CLVL<15]:%RED%!%WHITE%HP3
 ItemDisplay[hp3 CLVL>29]:
-ItemDisplay[hp2 CLVL<16]:%RED%!%WHITE%HP2
+ItemDisplay[hp2 CLVL<15]:%RED%!%WHITE%HP2
 ItemDisplay[hp2 CLVL>15]:
 ItemDisplay[hp1 CLVL<10]:%RED%!%WHITE%HP1
 ItemDisplay[hp1 CLVL>9]:
 ItemDisplay[mp4 DIFF<1]:%BLUE%!%WHITE%MP4
 ItemDisplay[mp4 DIFF>0]:
-ItemDisplay[mp3 CLVL<30]:%BLUE%!%WHITE%MP3
+ItemDisplay[mp3 CLVL<15]:%BLUE%!%WHITE%MP3
 ItemDisplay[mp3 CLVL>29]:
-ItemDisplay[mp2 CLVL<16]:%BLUE%!%WHITE%MP2
+ItemDisplay[mp2 CLVL<15:%BLUE%!%WHITE%MP2
 ItemDisplay[mp2 CLVL>15]: 
 ItemDisplay[mp1 CLVL<10]:%BLUE%!%WHITE%MP1
 ItemDisplay[mp1 CLVL>9]:
@@ -308,17 +308,17 @@ ItemDisplay[key CLVL>29]:
 ItemDisplay[wms CLVL<20]:Tha%BLUE%*
 ItemDisplay[wms CLVL>19]:
 ItemDisplay[yps]:Anti%PURPLE%*
-ItemDisplay[gpm CLVL<20]:Gas2%GREEN%*
+ItemDisplay[gpm CLVL<15]:Gas2%GREEN%*
 ItemDisplay[gpm CLVL>19]:
-ItemDisplay[opm CLVL<20]:Oil2%ORANGE%*
+ItemDisplay[opm CLVL<15]:Oil2%ORANGE%*
 ItemDisplay[opm CLVL>19]:
-ItemDisplay[opl CLVL<20]:Oil3%ORANGE%*
+ItemDisplay[opl CLVL<15]:Oil3%ORANGE%*
 ItemDisplay[opl CLVL>19]:
-ItemDisplay[ops CLVL<20]:Oil1%ORANGE%*
+ItemDisplay[ops CLVL<15]:Oil1%ORANGE%*
 ItemDisplay[ops CLVL>19]:
-ItemDisplay[gps CLVL<20]:Gas1%GREEN%*
+ItemDisplay[gps CLVL<15]:Gas1%GREEN%*
 ItemDisplay[gps CLVL>19]:
-ItemDisplay[gpl CLVL<20]:Gas3%GREEN%*
+ItemDisplay[gpl CLVL<15]:Gas3%GREEN%*
 ItemDisplay[gpl CLVL>19]:
 ItemDisplay[vps CLVL<10]:Sta%GRAY%*
 ItemDisplay[vps CLVL>9]:
