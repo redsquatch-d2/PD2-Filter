@@ -8,7 +8,7 @@ ItemDisplayFilterName[]: Add Magic Bolt&Arrow(Blocked) //FILTLVL>1
 ItemDisplayFilterName[]: No ThrowingPotion, Ring(M) //FILTLVL>2
 ItemDisplayFilterName[]: ++No CraftArmor,NormalSet+Glove(M)+Wand(M)+HP/MP //FILTLVL>3
 ItemDisplayFilterName[]: +++No Amulet+Claw(M)+NecHead(M)+Circlet(M)+ClassHelmet(M)+Javel(M)+R35 //FILTLVL>4
-ItemDisplayFilterName[]: ++++No Bolt(Rare) No Arrow (Rare)//FILTLVL>5
+ItemDisplayFilterName[]: ++++No Bolt(Rare)//No Arrow (Rare)//FILTLVL>5
 ItemDisplayFilterName[]: +++++Only GG base Item //FILTLVL>6
 ItemDisplayFilterName[]: ++++++No CraftWeapon(OnlyActiveETH+Bows(GMB)),AllSet(rin+amu) //FILTLVL>7
 /////////////////////////////////////////////////////////////////////////////////////////////////
