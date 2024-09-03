@@ -23,7 +23,7 @@ ItemDisplay[(hp5 OR mp5 OR yps) FILTLVL>3]:
 ItemDisplay[(rvs) FILTLVL>4]:
 ItemDisplay[(EQ7 OR CL4 OR CL5 OR amu OR am5 OR ama OR amf) MAG !ID FILTLVL>4]:
 ItemDisplay[RARE (cqv) !ID FILTLVL>5]: 
-ItemDisplay[RARE (aqv) !ID FILTLVL>6]: 
+ItemDisplay[RARE (aqv) !ID FILTLVL>5]: 
 
 ItemDisplay[leg]: %NAME% %ORANGE%[L%ILVL%] %PURPLE%[%SOCKETS%]
 //ItemDisplay[MAG (aqv OR cqv) !ID FILTLVL=2]:%NAME%%ORANGE%[Skill Check]
